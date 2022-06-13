@@ -1,0 +1,742 @@
+fileFormatVersion: 2
+guid: bb327373e46222146ba4cc53e8cfd8c0
+timeCreated: 1502812007
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chicken sprite animation_0
+    21300002: chicken sprite animation_1
+    21300004: chicken sprite animation_2
+    21300006: chicken sprite animation_3
+    21300008: chicken sprite animation_4
+    21300010: chicken sprite animation_5
+    21300012: chicken sprite animation_6
+    21300014: chicken sprite animation_7
+    21300016: chicken sprite animation_8
+    21300018: chicken sprite animation_9
+    21300020: chicken sprite animation_10
+    21300022: chicken sprite animation_11
+    21300024: chicken sprite animation_12
+    21300026: chicken sprite animation_13
+    21300028: chicken sprite animation_14
+    21300030: chicken sprite animation_15
+    21300032: chicken sprite animation_16
+    21300034: chicken sprite animation_17
+    21300036: chicken sprite animation_18
+    21300038: chicken sprite animation_19
+    21300040: chicken sprite animation_20
+    21300042: chicken sprite animation_21
+    21300044: chicken sprite animation_22
+    21300046: chicken sprite animation_23
+    21300048: chicken sprite animation_24
+    21300050: chicken sprite animation_25
+    21300052: chicken sprite animation_26
+    21300054: chicken sprite animation_27
+    21300056: chicken sprite animation_28
+    21300058: chicken sprite animation_29
+    21300060: chicken sprite animation_30
+    21300062: chicken sprite animation_31
+    21300064: chicken sprite animation_32
+    21300066: chicken sprite animation_33
+    21300068: chicken sprite animation_34
+    21300070: chicken sprite animation_35
+    21300072: chicken sprite animation_36
+    21300074: chicken sprite animation_37
+    21300076: chicken sprite animation_38
+    21300078: chicken sprite animation_39
+    21300080: chicken sprite animation_40
+    21300082: chicken sprite animation_41
+    21300084: chicken sprite animation_42
+    21300086: chicken sprite animation_43
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chicken sprite animation_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1079
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1079
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1076
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_3
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1084
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_4
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1090
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_5
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1095
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_6
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1097
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_7
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1094
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 969
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 972
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_10
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 970
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_11
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 965
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_12
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 959
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_13
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 951
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_14
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 954
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_15
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 954
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 747
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 747
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 747
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_19
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 747
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_20
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 747
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_21
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 747
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 637
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_23
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 637
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_24
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 637
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_25
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 637
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_26
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 637
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_27
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 637
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_28
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 422
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 422
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_30
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 422
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_31
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 422
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_32
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 422
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_33
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 422
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 312
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_35
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 312
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_36
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 312
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_37
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 312
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_38
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 312
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_39
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 312
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_40
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 140
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 137
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_42
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 138
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken sprite animation_43
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 141
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
